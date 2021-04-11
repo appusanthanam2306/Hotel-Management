@@ -7,7 +7,7 @@
     "start": "node index.js",
     "devStart": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "heroku builds:create -a hotel-management-application"
+    "deploy": "heroku builds:create -a hotel-management-application-node"
   },
   "author": "Appu Santhanam",
   "license": "ISC",

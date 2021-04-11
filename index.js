@@ -23,7 +23,7 @@ mongoose.connect(process.env.DB_URL, {
 
 //routes
 app.get('/', (req, res) => {
-  res.send('hello world');
+  res.send('hello world updated');
 })
 
 //route middleware
